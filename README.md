@@ -1,6 +1,6 @@
 # Linux CheatSheet
 
-> A collection of linux cheatsheet that I discover or found ⚛.
+> A collection of linux cheatsheet.
 
 ## Table of content
 

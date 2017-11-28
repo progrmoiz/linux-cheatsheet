@@ -9,8 +9,3 @@
 ## Installation
 
 No setup require just `git clone` it.
-
-# My Linux Cheatsheet
-
-I discover when learning linux from [Linux Academy](https://linuxacademy.com/).
-The cheatsheet can be found under cheatsheet/my-linux-cheetsheet.md

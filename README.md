@@ -4,7 +4,7 @@
 
 ## Table of content
 
-- [My Linux Cheatsheet](#my-linux-cheatsheet)
+- [My Linux Cheatsheet](/cheatsheet/my-linux-cheatsheet.md)
 
 ## Installation
 
